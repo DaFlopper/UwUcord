@@ -1,0 +1,24 @@
+Privacy Policy for UwUcord
+
+At UwUcord, we are committed to maintaining the privacy and confidentiality of our users. This Privacy Policy outlines our practices regarding the collection, use, and protection of personal information.
+
+Information Collection:
+
+UwUcord does not collect any personal information from users.
+We do not store or access any user data, including messages, user IDs, or server IDs.
+Usage Data:
+
+UwUcord may collect anonymous usage data, such as bot commands or server statistics, to improve and optimize our services.
+This information is used solely for analytical purposes and does not identify individual users.
+Third-Party Services:
+
+UwUcord may integrate with third-party services or APIs, such as Discord, but we do not share any user data with these services.
+Data Security:
+
+We employ industry-standard security measures to protect any data we collect.
+However, please be aware that no method of data transmission or storage is entirely secure.
+
+UwUcord reserves the right to modify or update this Privacy Policy. Any changes will be communicated through our website or other appropriate channels.
+Contact Us: eaglestudio.rbx@gmail.com
+
+By using UwUcord, you agree to the terms and conditions outlined in this Privacy Policy. Please note that this policy only applies to UwUcord and not to any third-party services or applications you may use in conjunction with UwUcord.
